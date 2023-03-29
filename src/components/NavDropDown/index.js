@@ -11,7 +11,7 @@ const NavDropDown = (props) => (
         <AiFillPhone/>
       </DropDownIcon>
       <DropDownTextContainer>
-        <DropDownItemTitle>Phone</DropDownItemTitle>
+        <DropDownItemTitle>Phone </DropDownItemTitle>
         <DropDownItemDesc>Let's get together and have a chat?'</DropDownItemDesc>
       </DropDownTextContainer>
     </DropDownItem>
